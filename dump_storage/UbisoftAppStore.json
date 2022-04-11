@@ -1,0 +1,163 @@
+{"Apps":[
+    {
+        "applicationId": "69e55abd-5aca-4eee-be94-ce3944c72e73",
+        "name": "Apex PC",
+        "platform": "PC",
+        "spaceId": "c2eedce4-d622-4a30-a82c-bfe377c7c580",
+        "overrideResponse": null
+    },
+    {
+        "applicationId": "27c49943-5d32-4b44-8819-1d5f0426c051",
+        "name": "Assassin's Creed Chronicles: China PC",
+        "platform": "PC",
+        "spaceId": "92c79ab6-a69a-411d-ba2b-625ab104235d",
+        "overrideResponse": null
+    },
+    {
+        "applicationId": "ba09e96a-9f80-42c1-ab6c-4abbc91e9d38",
+        "name": "Assassin's Creed Empire PC",
+        "platform": "PC",
+        "spaceId": "bfd34091-6af6-4029-873b-ba7e036464fa",
+        "overrideResponse": null
+    },
+    {
+        "applicationId": "9244ae85-6ffb-4f97-8355-f220d01ee20a",
+        "name": "Assassin's Creed II",
+        "platform": "PC",
+        "spaceId": "97ef669a-c028-4c25-b5ff-7335aa5d806c",
+        "overrideResponse": null
+    },
+    {
+        "applicationId": "697a073a-83f3-46af-9da7-0d0b0a8a2366",
+        "name": "Assassin's Creed Unity PC",
+        "platform": "PC",
+        "spaceId": "6678eff0-1293-4f87-8c8c-06a4ca646068",
+        "overrideResponse": null
+    },
+    {
+        "applicationId": "2af4af32-4c41-4869-9651-ce36db9341e0",
+        "name": "Events - Shop EMEA WebGameSite",
+        "platform": "WebGame",
+        "spaceId": "7beb4d3c-c033-40c7-9e12-72a1ff6d35bf",
+        "overrideResponse": null
+    },
+    {
+        "applicationId": "15a42aaf-f5cc-47df-bbb3-f59768ac6eed",
+        "name": "Far Cry® 3",
+        "platform": "PC",
+        "spaceId": "50228b8c-bbaa-4c32-83c6-2831a1ac317c",
+        "overrideResponse": null
+    },
+    {
+        "applicationId": "d2408c33-775c-416b-b5d4-768bd23ccbad",
+        "name": "Ghost Recon Next PC",
+        "platform": "PC",
+        "spaceId": "429a8e76-f469-4b2e-9d74-c1b35ee0ddad",
+        "overrideResponse": null
+    },
+    {
+        "applicationId": "3b27ede8-3ff9-435d-a264-e2de2ccbb2ce",
+        "name": "Hero PC",
+        "platform": "PC",
+        "spaceId": "882ad5b5-f549-44a1-a434-c465d22fe4bf",
+        "overrideResponse": null
+    },
+    {
+        "applicationId": "5033bfb3-8a2e-4748-93e5-2ffa82975a85",
+        "name": "Pioneer PC",
+        "platform": "PC",
+        "spaceId": "ec7c3a36-1e06-4689-936c-0600c9211b54",
+        "overrideResponse": null
+    },
+    {
+        "applicationId": "e3d5ea9e-50bd-43b7-88bf-39794f4e3d40",
+        "name": "Rainbow Six 7 PC",
+        "platform": "PC",
+        "spaceId": "5172a557-50b5-4665-b7db-e3f2e8c5041d",
+        "overrideResponse": null
+    },
+    {
+        "applicationId": "a427a342-56bb-437b-b835-fa695c75893b",
+        "name": "Rainbow Six 7 PTS",
+        "platform": "PC",
+        "spaceId": "41aebcf5-56eb-4f1e-b154-9eb46718f465",
+        "overrideResponse": null
+    },
+    {
+        "applicationId": "8f6dd8a1-ad76-47f2-8b2e-f12333224a97",
+        "name": "Steep2 PC",
+        "platform": "PC",
+        "spaceId": "4b23edff-2983-4766-9719-070d8909f254",
+        "overrideResponse": null
+    },
+    {
+        "applicationId": "043a4bd9-9336-4cc3-b51c-1da703f89f87",
+        "name": "The Crew PC",
+        "platform": "PC",
+        "spaceId": "ee2ed4a6-4d8c-4d20-8777-c6355c21666f",
+        "overrideResponse": null
+    },
+    {
+        "applicationId": "4bc245f2-b998-4574-9574-6ab93ec9e44c",
+        "name": "The Division - BattleCat PC RETAIL",
+        "platform": "PC",
+        "spaceId": "c1cc6537-b43e-4f6e-b4cb-7f3e3a5bef5e",
+        "overrideResponse": null
+    },
+    {
+        "applicationId": "6c6b8cd7-d901-4cd5-8279-07ba92088f06",
+        "name": "The Division - Hunter PC",
+        "platform": "PC",
+        "spaceId": "60859c37-949d-49e2-8fc8-6d8dc40f1a9e",
+        "overrideResponse": null
+    },
+    {
+        "applicationId": "5c5d3b21-e1fc-4460-9213-87b4cd440d44",
+        "name": "The Division - Hunter Web Game Site RETAIL",
+        "platform": "WebGame",
+        "spaceId": "5968d6a1-4490-418f-a32b-6d568ba09ee7",
+        "overrideResponse": null
+    },
+    {
+        "applicationId": "87843b9b-516d-4a58-824b-f658d1361ad1",
+        "name": "Tom Clancy's the division PC",
+        "platform": "PC",
+        "spaceId": "6edd234a-abff-4e90-9aab-b9b9c6e49ff7",
+        "overrideResponse": null
+    },
+    {
+        "applicationId": "86263886-327a-4328-ac69-527f0d20a237",
+        "name": "TRACKMANIA NEXT PC",
+        "platform": "PC",
+        "spaceId": "5d20614c-234d-4cc8-934d-11ff07c2de69",
+        "overrideResponse": null
+    },
+    {
+        "applicationId": "46f0b36b-b947-4d9c-b9dc-9a34b52ab59a",
+        "name": "Ubisoft Club ANDROID",
+        "platform": "ANDROID",
+        "spaceId": "029e8254-57fe-4d2a-8a40-bb321f0f660d",
+        "overrideResponse": null
+    },
+    {
+        "applicationId": "314d4fef-e568-454a-ae06-43e3bece12a6",
+        "name": "Ubisoft Club Website",
+        "platform": "WEB",
+        "spaceId": "66fcdb38-e7c2-45dd-a1c4-acbd7086d00f",
+        "overrideResponse": null
+    },
+    {
+        "applicationId": "f68a4bb5-608a-4ff2-8123-be8ef797e0a6",
+        "name": "Uplay Client",
+        "platform": "PC",
+        "spaceId": "e17be87d-2996-4f3b-97c4-19bb2dae2933",
+        "overrideResponse": null
+    },
+    {
+        "applicationId": "35c5c607-2717-47d9-9323-7df47c6e1c4d",
+        "name": "Watch Dogs 2 PC",
+        "platform": "PC",
+        "spaceId": "8c8d9b22-498c-45e6-80da-7cd22787c9b3",
+        "overrideResponse": null
+    }
+]}
