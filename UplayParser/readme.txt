@@ -23,4 +23,5 @@ Console.WriteLine(parsedManifest.CompressionMethod);
 
 
 Have fun!
-If you want I can make a new org and repo for Uplay specific.
+Repo can be found in:
+https://github.com/UplayDB/Ubi-Parser
